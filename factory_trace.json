@@ -1,0 +1,4019 @@
+{
+  "gridWidth": 15,
+  "gridHeight": 10,
+  "dropZone": {
+    "x": 0,
+    "y": 0
+  },
+  "frames": [
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 6,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 4,
+          "x": 13,
+          "y": 5,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 9,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 11,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 6,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 1,
+          "x": 4,
+          "y": 8
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 13,
+          "y": 5,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 9,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 11,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 6,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 1,
+          "x": 4,
+          "y": 8
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 13,
+          "y": 5,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 9,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 11,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 1,
+          "x": 4,
+          "y": 8
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 12,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 9,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 11,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 1,
+          "x": 4,
+          "y": 8
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 11,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 11,
+          "y": 8,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 8,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 6,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 10,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 9,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 10,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 7,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 9,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 8,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 9,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 8,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 8,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 8,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 0,
+          "x": 5,
+          "y": 0
+        },
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 7,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 7,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 4,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 6,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 6,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 3,
+          "x": 7,
+          "y": 5
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 3,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 5,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 6,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 2,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 6,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 5,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 3,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 5,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 5,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 4,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 0
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 4,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 2,
+          "x": 2,
+          "y": 4
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 5
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 1
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 4,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 1
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 1
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 1
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 2
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 2
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 2,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 2,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 2
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 2,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 3,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 2
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 3,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 3
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 3,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 4
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 4,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 6,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 4
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 4,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 3,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 6,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 7,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 9,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 7,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 8,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 3,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 8,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 7,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 8,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 9,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 5,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 9,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        },
+        {
+          "id": 11,
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "delivered": 5
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 4,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 5,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 9,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 5,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 8,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 6,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 7,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 3,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 6,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 6,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 8,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 5,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 5,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 7,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 6,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 8,
+          "y": 7,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 7,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 8,
+          "y": 8,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        },
+        {
+          "id": 10,
+          "x": 8,
+          "y": 8
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 8,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 8,
+          "y": 8,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 9,
+          "y": 0,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 8,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        }
+      ],
+      "delivered": 6
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 4,
+          "x": 9,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 7,
+          "y": 7,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        },
+        {
+          "id": 8,
+          "x": 9,
+          "y": 1
+        }
+      ],
+      "delivered": 7
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 1,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 9,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 6,
+          "y": 7,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 7
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 2,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 8,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 6,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 7
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 3,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 7,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 5,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 7
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 4,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 6,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 5,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 8
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 5,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 5,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 4,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 4,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 6,
+          "carrying": false,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 3,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [
+        {
+          "id": 5,
+          "x": 1,
+          "y": 6
+        }
+      ],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 6,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 2,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 3,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 5,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 4,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 2,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 3,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 9
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 2,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 10
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 1,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 10
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 1,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 10
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": true,
+          "available": false
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 11
+    },
+    {
+      "agents": [
+        {
+          "id": 3,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 4,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 5,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 6,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        },
+        {
+          "id": 7,
+          "x": 0,
+          "y": 0,
+          "carrying": false,
+          "available": true
+        }
+      ],
+      "boxes": [],
+      "delivered": 12
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+PARAMS:
+  n         // número de botones (nodos)
+  speed     // fracción de n aristas nuevas por paso (0 < speed ≤ 1)
+  steps     // pasos de simulación
+STATE:
+  G         // grafo no dirigido inicialmente sin aristas con n nodos
+  threads   // contador total de aristas añadidas (inicia en 0)
+
+PROCEDURE setup(n):
+  crear grafo G con n nodos
+  threads ← 0
+
+FUNCTION largest_component_fraction(G):
+  componentes ← componentes_conexos(G)
+  max_size ← máximo( tamaño(C) para C en componentes )
+  return max_size / número_de_nodos(G)
+
+PROCEDURE update_and_record():
+  max_cluster_size ← largest_component_fraction(G)
+  threads_to_button ← threads / n
+  registrar("max_cluster_size", max_cluster_size)
+  registrar("threads_to_button", threads_to_button)
+
+PROCEDURE step():
+  m ← entero(n * speed)           // número de aristas nuevas este paso
+  repetir m veces:
+    (u, v) ← elegir_dos_nodos_distintos_al_azar(G)
+    añadir_arista(G, u, v)        // si ya existe, puedes permitir multiselección o verificar
+    threads ← threads + 1
+
+PROCEDURE run_simulation(n, speed, steps):
+  setup(n)
+  para t desde 1 hasta steps:
+    step()
+    update_and_record()
+  devolver registros
+
+// Experimento con múltiples corridas y promedios
+PROCEDURE experiment():
+  valores_n ← {100, 1000, 10000}
+  speed ← 0.05
+  steps ← 30
+  iteraciones_por_config ← 25
+  resultados ← ∅
+  para cada n en valores_n:
+    repetir iteraciones_por_config veces:
+      registros ← run_simulation(n, speed, steps)
+      agregar(resultados, (n, registros))
+  // Agregar/agrupación por 'threads_to_button' y promedio de 'max_cluster_size' por n
+  graficar_x_y_hue(
+     x="threads_to_button",
+     y="max_cluster_size",
+     hue="n",
+     datos=promediar_series_temporales(resultados)
+  )
